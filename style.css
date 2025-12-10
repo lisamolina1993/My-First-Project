@@ -258,5 +258,6 @@ padding-top: 15px;
     position: absolute;
     top: 50%;
     max-width: 550px;
-    left: 90px;
+    transform: translateY(-50%);
 }
+
